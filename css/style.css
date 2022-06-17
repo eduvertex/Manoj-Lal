@@ -1,0 +1,37 @@
+body
+{
+  background-color: #DAEAF1;
+  }
+  h1
+  {
+    color:#3AB0FF
+  }
+  h2
+  {
+    color:#3AB0FF
+  }
+  h3
+  {
+    color:#3AB0FF
+  }
+  p
+  {
+    color:#06283D
+  }
+hr
+{
+background-color: white;
+border-height: 2px;
+width: 10%;
+border-style: none;
+border-top-style: dotted;
+}
+img
+{
+height: 240px;
+background-color:#3AB0FF;
+}
+.eduvertex_students
+{
+  background-color: white;
+}
